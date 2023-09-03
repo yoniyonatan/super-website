@@ -1,0 +1,45 @@
+body{
+    background-image: url(soc.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#mytitle{
+    text-shadow: 0px 0px 2px;
+    color: white;
+}
+#main{
+    text-align: center;
+    font-size: 30px;
+    color: blueviolet;
+    text-shadow: 0px 0px 3px;
+    font-weight: 2px;
+    font-family: 'Ink Free',monospace;
+}
+#info{
+    font-style: italic;
+    color: brown;
+    text-shadow: 0px 0px 1px;
+    font-size: 2em;
+}
+#sitecontainer a{
+    text-decoration: none;
+    text-align: center;
+    margin: auto;
+}
+#end{
+    color: red;
+    font-size: 2em;
+}
+#en{
+    color: black;
+    font-style: italic;
+    font-size: 2em;
+}
+#use{
+    color: red;
+    font-size: 2em;
+    text-shadow: 0px 0px 1px;
+}
